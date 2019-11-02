@@ -1,0 +1,34 @@
+[
+{
+    "Nama": "Bagus Kurniawan",
+    "Umur": 21,
+    "nim": "1512500941",
+    "lulus": true,
+    "hobby":[
+        "coding",
+        "gaming"
+    ],
+    "pembimbing":{
+        "pembimbing1": "Joko Sutrisno",
+        "pembimbing2": "Fx Sudirman"
+    }
+
+    
+},
+{
+    "Nama": "Dodi Umum",
+    "Umur": 21,
+    "nim": "1512501965",
+    "lulus": true,
+    "hobby":[
+        "pacaran",
+        "gaming"
+    ],
+    "pembimbing":{
+        "pembimbing1": "Prabowo Subion",
+        "pembimbing2": "Asrul Pik"
+    }
+
+    
+}
+]
